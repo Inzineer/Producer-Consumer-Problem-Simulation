@@ -1,0 +1,4 @@
+Consumed : [3] , Buffer_state: [5, 2, 6]
+Consumed : [5] , Buffer_state: [2, 6]
+Consumed : [2] , Buffer_state: [6]
+Consumed : [6] , Buffer_state: []
