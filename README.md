@@ -1,7 +1,7 @@
 # Producer-Consumer-Problem-Simulation
 A multithreaded producer-consumer problem simulation using circular buffers, mutex locks, and condition variables in C.
 
-**#Project Description**
+**# Project Description**
 
 This project simulates the classic producer-consumer problem using multithreading, mutex locks, and condition variables in C. The implementation ensures safe access to a shared circular buffer of size 100, allowing a producer thread to read integers from a file and a consumer thread to process them, demonstrating synchronization techniques.
 
